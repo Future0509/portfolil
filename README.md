@@ -1,2 +1,2 @@
-# portfolil
+# portfolio
 ポートフォリオページ
