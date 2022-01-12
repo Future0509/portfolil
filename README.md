@@ -10,6 +10,7 @@ atomで追加
 ### 見出し3
 
 ## 書式
+
 **太字** **bold**
 
 *斜体* *Italic*
@@ -22,3 +23,8 @@ line`です。
 
 ```cs
 string a = "これはC#(cs)初期のブロック";
+```
+
+## リンク
+
+[unityroom　Future](https://unityroom.com/users/e2mu0oqbj9k7nv4zyldt)
