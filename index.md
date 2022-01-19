@@ -34,7 +34,7 @@
 
 ### syougatu make you hapyy
 
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">](https://files/U0208QDBFPD/F02ULLPMM8A/image.png)
+[<img src="images/game1.png" alt="作品名1" style="height: 360px">](![syougatu  make you hapyy]images/syougatu.png)
 
 作品概要
 - Objectを使った迷路です。
