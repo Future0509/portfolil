@@ -37,8 +37,11 @@
 [<img src="images/game1.png" alt="syougatu  make you hapyy" style="height: 360px">](images/syougatu.png)
 
 作品概要
+
 - Objectを使った迷路です。
-　- まだ作成段階なので画像だけとなります。
+
+まだ作成段階なので画像だけとなります。
+
 - 開発環境：Unity
 - 開発期間：7日
 
